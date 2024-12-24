@@ -8,8 +8,8 @@ global.ytname = "Ishiya modz"
 global.socialm = "GitHub: @isithaanusara"
 global.location = "America/Port-au-Prince"
 
-global.ownernumber = '94740152669'  //creator number
-global.ownername = 'Ishiya Botz' //owner name
+global.ownernumber = '94740027418'  //creator number
+global.ownername = 'pasiya Botz' //owner name
 global.botname = 'KRYPT0_KNIGHT_BUG - MD' //name of the bot
 
 //sticker details
