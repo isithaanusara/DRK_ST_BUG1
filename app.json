@@ -1,8 +1,8 @@
 {
-  "name": "DRK_ST_BUG",
+  "name": "𝘾𝙮𝙗𝙚𝙧-𝙋𝙖𝙨𝙞𝙮𝙖-𝘽𝙪𝙜-𝘽𝙤𝙩",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/DRK-S-TEN/DRK_ST_BUG1",
-  "logo": "https://telegra.ph/file/e6a6d6fe8675c96a3bcb8.jpg",
+  "logo": "https://ibb.co/ZgmVm9y",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
