@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = 94740027418"
-global.ownername = "𝘾𝙮𝙗𝙚𝙧-𝙋𝙖𝙨𝙞𝙮𝙖-𝘽𝙪𝙜-𝘽𝙤𝙩"
+global.ownernomer = "94761395688"
+global.ownername = "ishiya modz"
 global.ytname = "Ishiya modz"
 global.socialm = "GitHub: @isithaanusara"
 global.location = "America/Port-au-Prince"
 
-global.ownernumber = '94740027418'  //creator number
-global.ownername = 'pasiya Botz' //owner name
+global.ownernumber = '94761395699'  //creator number
+global.ownername = 'ishiya Botz' //owner name
 global.botname = 'KRYPT0_KNIGHT_BUG - MD' //name of the bot
 
 //sticker details
@@ -24,7 +24,7 @@ global.wm = "𝙎-𝙏𝞢𝞜"
 global.link = 'https://whatsapp.com/channel/0029Vargs9aGOj9teLmc6r0w'
 
 //custom prefix
-global.prefa = ['']
+global.prefa = ['.']
 
 //false=disable and true=enable
 global.autoRecording = true //auto recording
